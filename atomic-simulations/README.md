@@ -5,4 +5,4 @@ Inspired from https://github.com/jupyter/docker-stacks/tree/main/images/datascie
 
 build :
 
-sudo docker build -t adareau/atomic-simulations .
+sudo docker build -t adareau/jupyterlab-atomic-simulations .
